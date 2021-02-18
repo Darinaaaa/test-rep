@@ -1,6 +1,6 @@
 
 <?php 
-$a = "some for test ";
+$a = "some test ";
 
 echo $a;
 
